@@ -1,0 +1,6 @@
+/spec/examples.txt
+.DS_Store
+*.swp
+*.swo
+Gemfile.lock
+coverage/
